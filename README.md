@@ -31,8 +31,8 @@ Blending biostatistics, epidemiology and computing in fast changing world..I mod
 
 | Project | Description | Domain | Tech Stack |
 |---------|-------------|--------|------------|
-| **[Digital Diagnostic Adoption in Clinics in Kenya ](https://github.com/yourusername/ecommerce)** | Models how small or rural clinics adopt AI-based diagnostic tools over time, factoring in cost, training, infrastructure, and peer influence. | Digital Health Research |React, Node.js, Stripe, MongoDB |
-| **[ABM of Trust and Adoption in AI-Based Diagnostic Tools](https://github.com/yourusername/task-manager)** | Simulate how patients and clinicians adopt or reject an AI-powered diagnostic assistant (e.g., for triage or early detection), factoring in trust, ease of use, past experience, and feedback loops.| Digital Health Research | TypeScript, Express, Socket.io |
+| **[XXXXXX ]()** | Models how small or rural clinics adopt AI-based diagnostic tools over time, factoring in cost, training, infrastructure, and peer influence. | Digital Health Research |React, Node.js, Stripe, MongoDB |
+| **[](https://github.com/yourusername/task-manager)** | Simulate how patients and clinicians adopt or reject an AI-powered diagnostic assistant (e.g., for triage or early detection), factoring in trust, ease of use, past experience, and feedback loops.| Digital Health Research | TypeScript, Express, Socket.io |
 | **[Co-Design Simulator for Mobile Diagnostic Tool in Low-Resource Clinics](https://github.com/yourusername/data-viz)** | ABM to explore how frontline health workers, tech developers, and clinic managers co-create a novel diagnostic solution | D3.js, Python, FastAPI |
 
 ## 📌Featured Projects
